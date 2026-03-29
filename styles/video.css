@@ -12,6 +12,17 @@ body {
     margin-bottom: 35px;
 }
 
+.shorts-logo img{
+    height: 30px;
+}
+.shorts-logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 450;
+    margin-left: 15px;
+    font-size: 23px;
+}
 .shorts-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
